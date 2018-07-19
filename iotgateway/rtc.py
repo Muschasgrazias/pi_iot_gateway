@@ -10,10 +10,9 @@
 
 import time
 import datetime
-import RTC_SDL_DS3231.SDL_DS3231 as SDL_DS3231
+import SDL_DS3231
 
 # Main Program
-
 
 print("Program Started at:" + time.strftime("%Y-%m-%d %H:%M:%S"))
 
